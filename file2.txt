@@ -1,2 +1,4 @@
 file 2
 local (checking merge conflict)
+checking merge conflict 
+
